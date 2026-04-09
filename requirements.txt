@@ -1,0 +1,13 @@
+numpy
+pandas
+psutil
+pytest
+scikit-learn
+xgboost
+tensorflow
+streamlit
+plotly
+matplotlib
+reportlab
+plyer
+watchdog

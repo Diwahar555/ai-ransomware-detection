@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+logs/
+reports/
+models/
+data/behavioral/real_world/
+
+*.log
+*.tmp
+*.temp
